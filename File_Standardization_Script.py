@@ -1,20 +1,11 @@
 #--------------------------------------------------------------------------------------------
-#       AUTHOR - JUSTIN HUBBARD - EMERGENT BUSINESS GROUP
+#       AUTHOR - JUSTIN HUBBARD
 #
 #       PURPOSE - GO THROUGH A SET DIRECTORY AND STANDARDIZE FILE FORMATS TO PIPE DELIMITED
 #
 
 # ONLY INPUTS THE USER NEEDS
 
-    # 1) ORIGINAL DEBT SELLER DIRECTORY
-    # 2) WHERE TO WRITE NEW STANDARDIZED FILES
-
-
-# BEAM INPUT
-# Beam_dir = "C:/Users/Justin Hubbard/Documents/Emergent Business Group"
-# Write_Beam_Dir = "C:/Users/Justin Hubbard/Documents/Emergent Business Group/Write Beam"
-# # Debt Seller Input
-# Debt_seller_dir = "C:/Users/Justin Hubbard/Documents/Emergent Business Group/test"
 
 #--------------------------------------------------------------------------------------------
 import tkinter as tk
